@@ -63,6 +63,8 @@ flutter:
     - assets/icons/menu.svg
     - assets/icons/search.svg
     - assets/images/image_1.png
+    - assets/images/image_2.png
+    - assets/icons/plus.svg
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
